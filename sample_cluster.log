@@ -1,0 +1,15 @@
+# Журнал телеметрії хмарного кластера
+2026-03-15T09:10:00Z | node-01.eu-west.cloud.local | 0x00 | CPU:42.5%
+2026-03-15T09:10:05Z | storage-01.eu-west.cloud.local | 0x00 | RAM:31.2GB
+2026-03-15T09:11:12+02:00 | 550e8400-e29b-41d4-a716-446655440000 | 0x02 | CPU:88.4%
+2026-03-15T09:11:40Z | node-01.eu-west.cloud.local | 0x01 | CPU:64.0%
+2026-03-15T09:12:03Z | storage-02.us-east.cloud.local | 0x00 | RAM:54.8GB
+2026-03-15T09:12:30+02:00 | node-03.eu-central.cloud.local | 0x06 | CPU:93.7%
+2026-03-15T09:13:10Z | 7c9e6679-7425-40de-944b-e07fc1f90ae7 | 0x0C | RAM:40.0GB
+2026-03-15T09:13:45Z | node-02.eu-west.cloud.local | 0x00 | CPU:19.3%
+2026-03-15T09:14:02Z | storage-01.eu-west.cloud.local | 0x09 | RAM:61.5GB
+2026-03-15T09:14:20Z | node-03.eu-central.cloud.local | 0x02 | CPU:81.2%
+
+# Навмисно пошкоджені рядки для тестування обробки винятків
+2026-03-15T09:15:00Z | broken_host_without_domain | 0x01 | CPU:50.0%
+2026-03-15T09:15:15Z | node-04.eu-west.cloud.local | 0x2A | CPU:70.0%

@@ -1,0 +1,21 @@
+# Кеш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Середовища
+.env/
+.venv/
+env/
+venv/
+miniconda3/
+
+# Налаштування IDE (залишаємо тільки launch.json)
+.vscode/*
+!.vscode/launch.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# Згенеровані вихідні дампи звітів
+incidents_dump.json
